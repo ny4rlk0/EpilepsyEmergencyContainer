@@ -4,6 +4,7 @@
 <br> Press F1 on keyboard to display black screen. 
 <br> Set Sound to on to trigger alarm. 
 <br> It will set max volume to your speaker!
+<br> Works with single monitor only!
 <br>
 <br> When you playing a game the moment you see anything that you dont expect, press F1 to get to the black screen.
 <br><a href="https://github.com/ny4rlk0/EpilepsyEmergencyContainer/releases/download/EpilepsyEmergencyContainer_1_0/Epilepsy_Emergency_Block_Release.exe">Download</a>
@@ -15,6 +16,7 @@
 <br> Sesi açık yaparak F1 basınca bir melodi çalmasını sağlayın. 
 <br> Hoparlörünüzü en yüksek sese alacaktır!
 <br> Oyun oynarken beklemediğiniz bir şey görmeye başladığınızda F1 tuşuna basarak siyah ekrana geçin.
+<br> Sadece tek monitörde çalışır.
 <br>
 <br><a href="https://github.com/ny4rlk0/EpilepsyEmergencyContainer/releases/download/EpilepsyEmergencyContainer_1_0/Epilepsy_Emergency_Block_Release.exe">İndir</a>
 <br>
